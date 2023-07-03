@@ -3,3 +3,6 @@ var show = () => {
 }
 
 show()
+
+clown() {
+}
