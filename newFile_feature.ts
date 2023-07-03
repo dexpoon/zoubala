@@ -2,4 +2,6 @@ var show = () => {
     console.log("function show called!!!")
 }
 
-show()
+// adding showthem
+showthem() {
+}
